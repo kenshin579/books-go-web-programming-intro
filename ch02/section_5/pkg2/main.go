@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"gobook-example/ch02/section_5/lib"
+	"github.com/kenshin579/books-go-web-programming-intro/ch02/section_5/lib"
 )
 
 var v rune
 
 func init() {
+	fmt.Println("init called")
 	v = '1'
 }
 

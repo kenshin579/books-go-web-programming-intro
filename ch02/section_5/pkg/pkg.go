@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gobook-example/ch02/section_5/lib"
+	"github.com/kenshin579/books-go-web-programming-intro/ch02/section_5/lib"
 )
 
 func main() {
